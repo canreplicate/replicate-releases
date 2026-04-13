@@ -7,7 +7,7 @@
       <sparkle:releaseNotesLink>https://canreplicate.app/changelog</sparkle:releaseNotesLink>
       <pubDate>Sun, 12 Apr 2026 18:05:13 +0100</pubDate>
       <enclosure
-        url="https://raw.githubusercontent.com/canreplicate/replicate-releases/main/releases/v1.0.0/Replicate.zip"
+        url="https://github.com/canreplicate/replicate-releases/releases/download/1.0.0/Replicate.zip"
         sparkle:version="1.0.0"
         sparkle:shortVersionString="1.0.0"
         length="40639813"
