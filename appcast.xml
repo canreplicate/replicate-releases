@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Replicate</title>
-      <item>
-        <title>Version 1.0.0</title>
-        <sparkle:releaseNotesLink>https://canreplicate.app/changelog</sparkle:releaseNotesLink>
-        <pubDate>Mon, 13 Apr 2026 12:04:33 +0100</pubDate>
-        <enclosure
-          url="https://github.com/canreplicate/replicate-releases/releases/download/1.0.0/Replicate.dmg"
-          sparkle:version="1.0.0"
-          sparkle:shortVersionString="1.0.0"
-          length="42290938"
-          type="application/x-apple-diskimage"
-          sparkle:edSignature="X3SFaI+5tOmoK85HFu1Uixa7Cr8N7xz7wNbRHUE87hEWxOGbZ9CiXtUzvt3kwgt5omppxxobmJqwaUfuL9tWCA=="/>
-      </item>
+        <item>
+          <title>Version 1.0.0</title>
+          <sparkle:releaseNotesLink>https://canreplicate.app/changelog</sparkle:releaseNotesLink>
+          <pubDate>Tue, 14 Apr 2026 08:27:05 +0100</pubDate>
+          <enclosure
+            url="https://github.com/canreplicate/replicate-releases/releases/download/v1.0.0/Replicate-1.0.0.dmg"
+            sparkle:version="1.0.0"
+            sparkle:shortVersionString="1.0.0"
+            length="42736099"
+            type="application/x-apple-diskimage"
+            sparkle:edSignature="9Suj/1QlilBJVNU/fJQYGdDdQFaOW/8xQ3UOW/owInBLtGRm0tT46NgcN8959EjXq4gDVn5KOt4zUtdmsuuNBA=="/>
+        </item>
   </channel>
 </rss>
