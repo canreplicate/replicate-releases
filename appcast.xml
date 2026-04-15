@@ -5,14 +5,14 @@
         <item>
           <title>Version 1.0.0</title>
           <sparkle:releaseNotesLink>https://canreplicate.app/changelog</sparkle:releaseNotesLink>
-          <pubDate>Tue, 14 Apr 2026 20:42:50 +0100</pubDate>
+          <pubDate>Wed, 15 Apr 2026 18:12:39 +0100</pubDate>
           <enclosure
             url="https://github.com/canreplicate/replicate-releases/releases/download/v1.0.0/Replicate-1.0.0.dmg"
             sparkle:version="1.0.0"
             sparkle:shortVersionString="1.0.0"
-            length="43515883"
+            length="43531091"
             type="application/x-apple-diskimage"
-            sparkle:edSignature="xjVUwZh6dBqiCoLrXW/yO3JIQLf9p3jEkE2Tb4jWd3ygAu5fxU/tUKZnXDvK8Wvo5hSqRdLk2TW1MHsWHO05Dw=="/>
+            sparkle:edSignature="mLxshHbDc93Fg7YqCV4RbbVvnSvtnrBEUBJj8ke7qJen1nbrH5KnyystpwnI6tSVDxT44TjmoForuqBZv5TyDw=="/>
         </item>
   </channel>
 </rss>
