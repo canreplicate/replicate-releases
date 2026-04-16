@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Replicate</title>
-        <item>
+       <item>
           <title>Version 1.0.0</title>
           <sparkle:releaseNotesLink>https://canreplicate.app/changelog</sparkle:releaseNotesLink>
-          <pubDate>Wed, 15 Apr 2026 18:12:39 +0100</pubDate>
+          <pubDate>Thu, 16 Apr 2026 09:27:46 +0100</pubDate>
           <enclosure
             url="https://github.com/canreplicate/replicate-releases/releases/download/v1.0.0/Replicate-1.0.0.dmg"
             sparkle:version="1.0.0"
             sparkle:shortVersionString="1.0.0"
-            length="43531091"
+            length="43531612"
             type="application/x-apple-diskimage"
-            sparkle:edSignature="mLxshHbDc93Fg7YqCV4RbbVvnSvtnrBEUBJj8ke7qJen1nbrH5KnyystpwnI6tSVDxT44TjmoForuqBZv5TyDw=="/>
+            sparkle:edSignature="4JNQ3C94WdR+bwZRwOix4xtzvBkd332bgstciyY1kSDcQ1le48mtB5AoBzSxXBanOYtj2qRb5wJTcluy7PtsCw=="/>
         </item>
   </channel>
 </rss>
